@@ -39,3 +39,7 @@
 
 3. 로그확인
 - $ git log
+
+4. git commit 취소
+- 로컬에서만 commit 했을때
+  - $ git rest HEAD

@@ -44,7 +44,4 @@
 4. git commit 취소
 - 로컬에서만 commit 했을때
   - $ git rest HEAD
-=======
-- $ git reset HEAD (파일명)
-  - 없으면 파일 전체 취소
->>>>>>> d2d4b948fbfcd13ac62bdc90bd3263e4cb06afce
+

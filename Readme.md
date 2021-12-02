@@ -1,12 +1,13 @@
 # python study
 ---
 ---
-## 설치 및 라이브러리 (21.08.23)
+## 설치 및 라이브러리 (21.12.02)
 
 1. Python Installation
 - python 3.9.0
 - Anaconda
   - jupyter notebook
+  - tensorflow
   - spyder
 
 2. Standard Lib
@@ -19,6 +20,15 @@
 - File I/O
 - Pickle
 
+3. ide
+- visual studio code
+
+---
+## 목적
+
+- '케라스 창시자에게 배우는 딥러닝' 책 구현하기 
+
+
 ---
 ## 몇가지 지켜야 할 규칙
 - 클래스의 이름은 대문자로 시작하고 뒤이어 소문자들로 작성해야 한다.
@@ -30,7 +40,7 @@
 
 
 ## Git Command
-<<<<<<< HEAD
+
 1. git add 취소하기
 - $ git reset HEAD (파일명)
   - 없으면 파일 전체 취소

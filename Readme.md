@@ -43,6 +43,8 @@
 - mutable : list, dict, numpy 등
 - immutable : 숫자, 문자, tuple 등
 
+- numpy : 벡터 및 행렬 값 구하기를 위해서 아주 갈고 닦겠다!
+
 
 ## Git Command
 

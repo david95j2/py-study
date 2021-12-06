@@ -43,7 +43,13 @@
 - mutable : list, dict, numpy 등
 - immutable : 숫자, 문자, tuple 등
 
-- numpy : 벡터 및 행렬 값 구하기를 위해서 아주 갈고 닦겠다!
+- numpy 
+  - Vevtor / matrix 생성
+  - 행렬 곱 (dot product)
+  - broadcast
+  - index / slice / iterlator
+  - concatenate
+  - loadtxt(), rand(), argmax(), argmix(), ones(), zeros()
 
 
 ## Git Command

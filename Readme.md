@@ -68,3 +68,12 @@
 - 로컬에서만 commit 했을때
   - $ git rest HEAD
 
+---
+
+## Error log
+
+1. 2021.12.21 파이썬으로 파일 읽을때 절대경로를 그대로 같다 붙히면 나오는 에러
+  >
+  >  'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+  >
+  - \ 를 ->  / 로 변경 후 열어야 오류 안뜸.
